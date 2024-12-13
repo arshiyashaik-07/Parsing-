@@ -1,4 +1,8 @@
 Devops Master 
 AWS solutions
 Terraform
+<<<<<<< HEAD
 Kubernets
+=======
+Jenkins
+>>>>>>> refs/remotes/origin/main
