@@ -1,4 +1,4 @@
 Devops Master 
 AWS solutions
 Terraform
-Python Scripting
+Kubernets
