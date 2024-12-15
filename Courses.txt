@@ -5,3 +5,4 @@ Kubernets
 Jenkins
 Git
 Argocd Training
+Logic to send email
