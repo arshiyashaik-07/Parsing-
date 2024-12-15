@@ -4,3 +4,4 @@ Terraform
 Kubernets
 Jenkins
 Git
+Argocd Training
