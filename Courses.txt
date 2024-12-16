@@ -2,6 +2,3 @@ Devops Master
 AWS solutions
 Terraform
 Kubernets
-Jenkins
-Git
-Argocd Training
