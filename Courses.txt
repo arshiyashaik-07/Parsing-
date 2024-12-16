@@ -6,3 +6,4 @@ Kubernets
 Jenkins
 Git
 Argocd Training
+python code email
