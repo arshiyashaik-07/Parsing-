@@ -1,4 +1,11 @@
 Devops Master 
 AWS solutions
 Terraform
+<<<<<<< HEAD
 Jenkins
+=======
+Kubernets
+Jenkins
+Git
+Argocd Training
+>>>>>>> b441c6825d0f51f57776362ebf4c8f76ff4c0533
