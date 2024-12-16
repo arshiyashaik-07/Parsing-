@@ -5,7 +5,10 @@ Terraform
 Jenkins
 =======
 Kubernets
+<<<<<<< HEAD
 Jenkins
 Git
 Argocd Training
 >>>>>>> b441c6825d0f51f57776362ebf4c8f76ff4c0533
+=======
+>>>>>>> 11e49ed3fa76648d0406d6c3675dea4460f62edf
