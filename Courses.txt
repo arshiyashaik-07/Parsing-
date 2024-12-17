@@ -6,4 +6,8 @@ Kubernets
 Jenkins
 Git
 Argocd Training
+<<<<<<< HEAD
 Send email 
+=======
+python code email
+>>>>>>> 65fdd44ebe9d05a6a38e4c7ca82e4a0285018551
